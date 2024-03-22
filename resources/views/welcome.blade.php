@@ -78,7 +78,9 @@
                     @endauth
                 </div>
             @endif
-
+            <div class="flex-center position-ref full-height">
+                <img src="https://upload.wikimedia.org/wikipedia/commons/c/c5/Escudo_Alianza_Lima.svg" alt="">
+            </div>
             <div class="content">
                 <div class="title m-b-md">
                     Laravel
