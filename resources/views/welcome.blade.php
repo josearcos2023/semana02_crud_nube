@@ -4,7 +4,7 @@
         <meta charset="utf-8">
         <meta name="viewport" content="width=device-width, initial-scale=1">
 
-        <title>Laravel2</title>
+        <title>Laravel</title>
 
         <!-- Fonts -->
         <link href="https://fonts.googleapis.com/css?family=Nunito:200,600" rel="stylesheet">
@@ -78,14 +78,15 @@
                     @endauth
                 </div>
             @endif
-            <div class="flex-center position-ref full-height">
-                <img src="https://upload.wikimedia.org/wikipedia/commons/c/c5/Escudo_Alianza_Lima.svg" alt="">
-            </div>
+            
             <div class="content">
+                <div>
+                    <img src="/img/Escudo_Alianza_Lima.jpg" alt="" height="200">
+                </div>
                 <div class="title m-b-md">
                     Laravel
                 </div>
-
+                
                 <div class="links">
                     <a href="https://laravel.com/docs">Docs</a>
                     <a href="https://laracasts.com">Laracasts</a>
